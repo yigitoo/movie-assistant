@@ -1,0 +1,7 @@
+SpeechRecognition
+pyttsx4
+cinemagoer
+# Speech Recognition's sub dependencies.
+PyAudio
+soundfile
+openai-whisper
